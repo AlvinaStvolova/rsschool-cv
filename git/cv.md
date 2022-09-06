@@ -2,6 +2,8 @@
 
 ![My photo](me.CR2)
 
+---
+
 ## Contacts:
 - **Phone:** +79272979943
 - **Telegram:** AlvinaStvolova
